@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FDLBOT"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FDLBOT&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/FDLBOT"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=myvinz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
   <a name=Vinz&label=VIEWS&style=flat-square&color=orange" />
  </p>
 
-          |
+          |https://github.com/myvinz
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
