@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCp5bH8pqBjqE3uqt3IYJFyQ"><img src="https://img.shields.io/badge/YouTube-VINZDEVELOPER-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/NOTHING" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
+  <a href="=https://instagram.com/vinanta.1031_"><img src="https://img.shields.io/badge/instagram-VINZDEVELOPER-a200ff?style=for-the-badge&logo=instagram&logoColor=a200ff&link=https://instagram.com/vinanta.1031_" /></a>
+  <a name=Vinz&label=VIEWS&style=flat-square&color=orange" />
  </p>
 
           |
