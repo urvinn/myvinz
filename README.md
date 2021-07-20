@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Vinz 👋
-
+<img align="center" height="200" src="https://avatars.githubusercontent.com/u/80805512?v=4"/>
 ## I'm a Developer and Software Engineer!
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other content creators
