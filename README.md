@@ -43,7 +43,7 @@
   <a name=Vinz&label=VIEWS&style=flat-square&color=orange" />
  </p>
 
-          |https://github.com/myvinz
+  |https://github.com/myvinz
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
